@@ -42,11 +42,12 @@ Partial Class registrarse
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.Label10 = New System.Windows.Forms.Label()
         Me.TextBox9 = New System.Windows.Forms.TextBox()
+        Me.Button2 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'TextBox8
         '
-        Me.TextBox8.Location = New System.Drawing.Point(244, 394)
+        Me.TextBox8.Location = New System.Drawing.Point(222, 317)
         Me.TextBox8.Name = "TextBox8"
         Me.TextBox8.Size = New System.Drawing.Size(245, 20)
         Me.TextBox8.TabIndex = 35
@@ -55,7 +56,7 @@ Partial Class registrarse
         '
         Me.Label9.AutoSize = True
         Me.Label9.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label9.Location = New System.Drawing.Point(58, 392)
+        Me.Label9.Location = New System.Drawing.Point(57, 317)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(155, 21)
         Me.Label9.TabIndex = 34
@@ -75,9 +76,9 @@ Partial Class registrarse
         '
         Me.Button1.BackColor = System.Drawing.Color.Peru
         Me.Button1.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(148, 473)
+        Me.Button1.Location = New System.Drawing.Point(276, 366)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(168, 69)
+        Me.Button1.Size = New System.Drawing.Size(154, 48)
         Me.Button1.TabIndex = 32
         Me.Button1.Text = "Registrarse"
         Me.Button1.UseVisualStyleBackColor = False
@@ -86,7 +87,7 @@ Partial Class registrarse
         '
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(53, 341)
+        Me.Label7.Location = New System.Drawing.Point(57, 275)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(95, 21)
         Me.Label7.TabIndex = 31
@@ -96,7 +97,7 @@ Partial Class registrarse
         '
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(58, 295)
+        Me.Label6.Location = New System.Drawing.Point(57, 232)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(71, 21)
         Me.Label6.TabIndex = 30
@@ -106,7 +107,7 @@ Partial Class registrarse
         '
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(53, 250)
+        Me.Label5.Location = New System.Drawing.Point(57, 185)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(86, 21)
         Me.Label5.TabIndex = 29
@@ -116,7 +117,7 @@ Partial Class registrarse
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(52, 198)
+        Me.Label4.Location = New System.Drawing.Point(57, 146)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(60, 21)
         Me.Label4.TabIndex = 28
@@ -126,7 +127,7 @@ Partial Class registrarse
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(52, 135)
+        Me.Label3.Location = New System.Drawing.Point(54, 108)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(79, 21)
         Me.Label3.TabIndex = 27
@@ -136,7 +137,7 @@ Partial Class registrarse
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(53, 78)
+        Me.Label2.Location = New System.Drawing.Point(57, 67)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(83, 21)
         Me.Label2.TabIndex = 26
@@ -154,42 +155,42 @@ Partial Class registrarse
         '
         'TextBox7
         '
-        Me.TextBox7.Location = New System.Drawing.Point(244, 342)
+        Me.TextBox7.Location = New System.Drawing.Point(222, 275)
         Me.TextBox7.Name = "TextBox7"
         Me.TextBox7.Size = New System.Drawing.Size(245, 20)
         Me.TextBox7.TabIndex = 24
         '
         'TextBox6
         '
-        Me.TextBox6.Location = New System.Drawing.Point(244, 295)
+        Me.TextBox6.Location = New System.Drawing.Point(222, 232)
         Me.TextBox6.Name = "TextBox6"
         Me.TextBox6.Size = New System.Drawing.Size(245, 20)
         Me.TextBox6.TabIndex = 23
         '
         'TextBox5
         '
-        Me.TextBox5.Location = New System.Drawing.Point(244, 253)
+        Me.TextBox5.Location = New System.Drawing.Point(222, 185)
         Me.TextBox5.Name = "TextBox5"
         Me.TextBox5.Size = New System.Drawing.Size(245, 20)
         Me.TextBox5.TabIndex = 22
         '
         'TextBox4
         '
-        Me.TextBox4.Location = New System.Drawing.Point(244, 198)
+        Me.TextBox4.Location = New System.Drawing.Point(222, 146)
         Me.TextBox4.Name = "TextBox4"
         Me.TextBox4.Size = New System.Drawing.Size(245, 20)
         Me.TextBox4.TabIndex = 21
         '
         'TextBox3
         '
-        Me.TextBox3.Location = New System.Drawing.Point(244, 135)
+        Me.TextBox3.Location = New System.Drawing.Point(222, 108)
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(245, 20)
         Me.TextBox3.TabIndex = 20
         '
         'TextBox2
         '
-        Me.TextBox2.Location = New System.Drawing.Point(244, 78)
+        Me.TextBox2.Location = New System.Drawing.Point(222, 67)
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(245, 20)
         Me.TextBox2.TabIndex = 19
@@ -205,7 +206,7 @@ Partial Class registrarse
         '
         Me.Label10.AutoSize = True
         Me.Label10.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label10.Location = New System.Drawing.Point(53, 27)
+        Me.Label10.Location = New System.Drawing.Point(57, 33)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(70, 21)
         Me.Label10.TabIndex = 36
@@ -213,17 +214,29 @@ Partial Class registrarse
         '
         'TextBox9
         '
-        Me.TextBox9.Location = New System.Drawing.Point(244, 27)
+        Me.TextBox9.Location = New System.Drawing.Point(222, 33)
         Me.TextBox9.Name = "TextBox9"
         Me.TextBox9.Size = New System.Drawing.Size(245, 20)
         Me.TextBox9.TabIndex = 37
+        '
+        'Button2
+        '
+        Me.Button2.BackColor = System.Drawing.Color.Peru
+        Me.Button2.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Location = New System.Drawing.Point(116, 366)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(154, 48)
+        Me.Button2.TabIndex = 38
+        Me.Button2.Text = "Regresar"
+        Me.Button2.UseVisualStyleBackColor = False
         '
         'registrarse
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.BurlyWood
-        Me.ClientSize = New System.Drawing.Size(525, 575)
+        Me.ClientSize = New System.Drawing.Size(522, 445)
+        Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.TextBox9)
         Me.Controls.Add(Me.Label10)
         Me.Controls.Add(Me.TextBox8)
@@ -271,4 +284,5 @@ Partial Class registrarse
     Friend WithEvents TextBox1 As TextBox
     Friend WithEvents Label10 As Label
     Friend WithEvents TextBox9 As TextBox
+    Friend WithEvents Button2 As Button
 End Class

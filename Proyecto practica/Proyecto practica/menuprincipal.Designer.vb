@@ -177,9 +177,9 @@ Partial Class menuprincipal
         Me.Label8.Font = New System.Drawing.Font("Modern No. 20", 36.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label8.Location = New System.Drawing.Point(166, 24)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(190, 50)
+        Me.Label8.Size = New System.Drawing.Size(201, 50)
         Me.Label8.TabIndex = 34
-        Me.Label8.Text = "god'sfist"
+        Me.Label8.Text = "God'sfist"
         '
         'PictureBox5
         '
@@ -236,7 +236,7 @@ Partial Class menuprincipal
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.BurlyWood
-        Me.ClientSize = New System.Drawing.Size(548, 755)
+        Me.ClientSize = New System.Drawing.Size(554, 749)
         Me.Controls.Add(Me.Label8)
         Me.Controls.Add(Me.Button5)
         Me.Controls.Add(Me.Button4)

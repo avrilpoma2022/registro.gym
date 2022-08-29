@@ -39,7 +39,7 @@ Partial Class Form1
         '
         Me.Button2.BackColor = System.Drawing.Color.Orange
         Me.Button2.Font = New System.Drawing.Font("Modern No. 20", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(137, 438)
+        Me.Button2.Location = New System.Drawing.Point(137, 433)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(197, 48)
         Me.Button2.TabIndex = 11
@@ -67,7 +67,7 @@ Partial Class Form1
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(106, 260)
+        Me.TextBox1.Location = New System.Drawing.Point(106, 276)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(321, 20)
         Me.TextBox1.TabIndex = 8
@@ -86,7 +86,7 @@ Partial Class Form1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(2, 257)
+        Me.Label1.Location = New System.Drawing.Point(2, 275)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(71, 21)
         Me.Label1.TabIndex = 6
@@ -98,9 +98,9 @@ Partial Class Form1
         Me.Label8.Font = New System.Drawing.Font("Modern No. 20", 36.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label8.Location = New System.Drawing.Point(144, 9)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(190, 50)
+        Me.Label8.Size = New System.Drawing.Size(201, 50)
         Me.Label8.TabIndex = 35
-        Me.Label8.Text = "god'sfist"
+        Me.Label8.Text = "God'sfist"
         '
         'Label3
         '
@@ -125,7 +125,7 @@ Partial Class Form1
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(3, 502)
+        Me.Label4.Location = New System.Drawing.Point(3, 494)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(460, 13)
         Me.Label4.TabIndex = 38

@@ -22,3 +22,30 @@ E:\ESCRITORIO\Nueva Progra\Proyecto practica\Proyecto practica\bin\Debug\MySql.D
 E:\ESCRITORIO\Nueva Progra\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.vbproj.Proyecto practica.exe.config
 E:\ESCRITORIO\Nueva Progra\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.vbprojResolveAssemblyReference.cache
 E:\ESCRITORIO\Nueva Progra\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.menuprincipal.resources
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\Proyecto practica.exe.config
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.exe
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.xml
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.pdb
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\Proyecto practica.exe
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\Proyecto practica.pdb
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\Proyecto practica.xml
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\Google.Protobuf.dll
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\ZstdNet.dll
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\System.Buffers.dll
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\MySql.Data.xml
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.vbprojResolveAssemblyReference.cache
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.vbproj.Proyecto practica.exe.config
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Form1.resources
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.menuprincipal.resources
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Resources.resources
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.registrarse.resources
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.vbproj.GenerateResource.Cache
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Cliente.resources
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Entrenadores.resources
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Grupos.resources
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Pagos.resources
