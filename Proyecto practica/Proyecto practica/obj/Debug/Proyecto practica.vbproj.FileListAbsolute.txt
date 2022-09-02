@@ -49,3 +49,7 @@ C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto
 C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Entrenadores.resources
 C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Grupos.resources
 C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Pagos.resources
+E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\Proyecto practica.exe.config
+E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.exe
+E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.xml
+E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.pdb
