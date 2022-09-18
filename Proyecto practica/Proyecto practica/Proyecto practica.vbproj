@@ -74,6 +74,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Asignacion.Designer.vb">
+      <DependentUpon>Asignacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Asignacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Cliente.Designer.vb">
       <DependentUpon>Cliente.vb</DependentUpon>
     </Compile>
@@ -133,8 +139,17 @@
     <Compile Include="registrarse.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Usuarios.Designer.vb">
+      <DependentUpon>Usuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Asignacion.resx">
+      <DependentUpon>Asignacion.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Cliente.resx">
       <DependentUpon>Cliente.vb</DependentUpon>
     </EmbeddedResource>
@@ -161,6 +176,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="registrarse.resx">
       <DependentUpon>registrarse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios.resx">
+      <DependentUpon>Usuarios.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -195,6 +213,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\gods1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asignar1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

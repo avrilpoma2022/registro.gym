@@ -81,7 +81,7 @@ Public Class Entrenadores
         com.Parameters.Add(param)
         com.ExecuteNonQuery()
         MessageBox.Show("Se ha actualizado el entrenador")
-        ButtonAgregar.Enabled = True;
+        ButtonAgregar.Enabled = True
         TextBoxIDE.Text = ""
         TextBoxNombreE.Text = ""
         TextBoxTelefono.Text = ""

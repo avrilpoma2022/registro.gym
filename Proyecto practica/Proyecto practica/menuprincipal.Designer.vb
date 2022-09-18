@@ -35,11 +35,15 @@ Partial Class menuprincipal
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Label8 = New System.Windows.Forms.Label()
+        Me.Button6 = New System.Windows.Forms.Button()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.PictureBox6 = New System.Windows.Forms.PictureBox()
         Me.PictureBox5 = New System.Windows.Forms.PictureBox()
         Me.PictureBox4 = New System.Windows.Forms.PictureBox()
         Me.PictureBox3 = New System.Windows.Forms.PictureBox()
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -51,7 +55,7 @@ Partial Class menuprincipal
         '
         Me.Button5.BackColor = System.Drawing.Color.Peru
         Me.Button5.Font = New System.Drawing.Font("Modern No. 20", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button5.Location = New System.Drawing.Point(221, 699)
+        Me.Button5.Location = New System.Drawing.Point(69, 708)
         Me.Button5.Name = "Button5"
         Me.Button5.Size = New System.Drawing.Size(135, 44)
         Me.Button5.TabIndex = 33
@@ -106,11 +110,11 @@ Partial Class menuprincipal
         '
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Modern No. 20", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(228, 523)
+        Me.Label7.Location = New System.Drawing.Point(76, 532)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(115, 29)
+        Me.Label7.Size = New System.Drawing.Size(117, 29)
         Me.Label7.TabIndex = 28
-        Me.Label7.Text = "Gerentes"
+        Me.Label7.Text = "Usuarios"
         '
         'Label6
         '
@@ -181,10 +185,41 @@ Partial Class menuprincipal
         Me.Label8.TabIndex = 34
         Me.Label8.Text = "God'sfist"
         '
+        'Button6
+        '
+        Me.Button6.BackColor = System.Drawing.Color.Peru
+        Me.Button6.Font = New System.Drawing.Font("Modern No. 20", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button6.Location = New System.Drawing.Point(349, 708)
+        Me.Button6.Name = "Button6"
+        Me.Button6.Size = New System.Drawing.Size(135, 44)
+        Me.Button6.TabIndex = 37
+        Me.Button6.Text = "Ingresar"
+        Me.Button6.UseVisualStyleBackColor = False
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.Font = New System.Drawing.Font("Modern No. 20", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label9.Location = New System.Drawing.Point(353, 532)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(147, 29)
+        Me.Label9.TabIndex = 36
+        Me.Label9.Text = "Asignación"
+        '
+        'PictureBox6
+        '
+        Me.PictureBox6.Image = Global.Proyecto_practica.My.Resources.Resources.asignar
+        Me.PictureBox6.Location = New System.Drawing.Point(321, 573)
+        Me.PictureBox6.Name = "PictureBox6"
+        Me.PictureBox6.Size = New System.Drawing.Size(187, 118)
+        Me.PictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
+        Me.PictureBox6.TabIndex = 35
+        Me.PictureBox6.TabStop = False
+        '
         'PictureBox5
         '
         Me.PictureBox5.Image = Global.Proyecto_practica.My.Resources.Resources.gerente2
-        Me.PictureBox5.Location = New System.Drawing.Point(193, 564)
+        Me.PictureBox5.Location = New System.Drawing.Point(41, 573)
         Me.PictureBox5.Name = "PictureBox5"
         Me.PictureBox5.Size = New System.Drawing.Size(187, 118)
         Me.PictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
@@ -236,7 +271,10 @@ Partial Class menuprincipal
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.BurlyWood
-        Me.ClientSize = New System.Drawing.Size(554, 749)
+        Me.ClientSize = New System.Drawing.Size(560, 781)
+        Me.Controls.Add(Me.Button6)
+        Me.Controls.Add(Me.Label9)
+        Me.Controls.Add(Me.PictureBox6)
         Me.Controls.Add(Me.Label8)
         Me.Controls.Add(Me.Button5)
         Me.Controls.Add(Me.Button4)
@@ -257,6 +295,7 @@ Partial Class menuprincipal
         Me.Controls.Add(Me.Label1)
         Me.Name = "menuprincipal"
         Me.Text = "menuprincipal"
+        CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
@@ -285,4 +324,7 @@ Partial Class menuprincipal
     Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents Label1 As Label
     Friend WithEvents Label8 As Label
+    Friend WithEvents Button6 As Button
+    Friend WithEvents Label9 As Label
+    Friend WithEvents PictureBox6 As PictureBox
 End Class

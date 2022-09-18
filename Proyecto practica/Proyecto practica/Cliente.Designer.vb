@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Cliente
+Partial Class Clientes
     Inherits System.Windows.Forms.Form
 
     'Form reemplaza a Dispose para limpiar la lista de componentes.
@@ -29,11 +29,11 @@ Partial Class Cliente
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.ButtonRegresar = New System.Windows.Forms.Button()
-        Me.TextBoxNombre = New System.Windows.Forms.TextBox()
-        Me.TextBoxTelefono = New System.Windows.Forms.TextBox()
-        Me.TextBoxEdad = New System.Windows.Forms.TextBox()
-        Me.TextBoxPeso = New System.Windows.Forms.TextBox()
-        Me.ComboBoxSexo = New System.Windows.Forms.ComboBox()
+        Me.TextBoxNombreC = New System.Windows.Forms.TextBox()
+        Me.TextBoxTelefonoC = New System.Windows.Forms.TextBox()
+        Me.TextBoxEdadC = New System.Windows.Forms.TextBox()
+        Me.TextBoxPesoC = New System.Windows.Forms.TextBox()
+        Me.ComboBoxSexoC = New System.Windows.Forms.ComboBox()
         Me.DataGridView2 = New System.Windows.Forms.DataGridView()
         Me.TextBoxIDC = New System.Windows.Forms.TextBox()
         Me.ButtonAgregar = New System.Windows.Forms.Button()
@@ -108,56 +108,56 @@ Partial Class Cliente
         '
         Me.ButtonRegresar.BackColor = System.Drawing.Color.Peru
         Me.ButtonRegresar.Font = New System.Drawing.Font("Modern No. 20", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ButtonRegresar.Location = New System.Drawing.Point(969, 414)
+        Me.ButtonRegresar.Location = New System.Drawing.Point(947, 414)
         Me.ButtonRegresar.Name = "ButtonRegresar"
         Me.ButtonRegresar.Size = New System.Drawing.Size(121, 40)
         Me.ButtonRegresar.TabIndex = 36
         Me.ButtonRegresar.Text = "Regresar"
         Me.ButtonRegresar.UseVisualStyleBackColor = False
         '
-        'TextBoxNombre
+        'TextBoxNombreC
         '
-        Me.TextBoxNombre.Location = New System.Drawing.Point(233, 169)
-        Me.TextBoxNombre.Name = "TextBoxNombre"
-        Me.TextBoxNombre.Size = New System.Drawing.Size(162, 20)
-        Me.TextBoxNombre.TabIndex = 38
+        Me.TextBoxNombreC.Location = New System.Drawing.Point(233, 169)
+        Me.TextBoxNombreC.Name = "TextBoxNombreC"
+        Me.TextBoxNombreC.Size = New System.Drawing.Size(162, 20)
+        Me.TextBoxNombreC.TabIndex = 38
         '
-        'TextBoxTelefono
+        'TextBoxTelefonoC
         '
-        Me.TextBoxTelefono.Location = New System.Drawing.Point(233, 203)
-        Me.TextBoxTelefono.Name = "TextBoxTelefono"
-        Me.TextBoxTelefono.Size = New System.Drawing.Size(162, 20)
-        Me.TextBoxTelefono.TabIndex = 39
+        Me.TextBoxTelefonoC.Location = New System.Drawing.Point(233, 203)
+        Me.TextBoxTelefonoC.Name = "TextBoxTelefonoC"
+        Me.TextBoxTelefonoC.Size = New System.Drawing.Size(162, 20)
+        Me.TextBoxTelefonoC.TabIndex = 39
         '
-        'TextBoxEdad
+        'TextBoxEdadC
         '
-        Me.TextBoxEdad.Location = New System.Drawing.Point(233, 238)
-        Me.TextBoxEdad.Name = "TextBoxEdad"
-        Me.TextBoxEdad.Size = New System.Drawing.Size(162, 20)
-        Me.TextBoxEdad.TabIndex = 40
+        Me.TextBoxEdadC.Location = New System.Drawing.Point(233, 238)
+        Me.TextBoxEdadC.Name = "TextBoxEdadC"
+        Me.TextBoxEdadC.Size = New System.Drawing.Size(162, 20)
+        Me.TextBoxEdadC.TabIndex = 40
         '
-        'TextBoxPeso
+        'TextBoxPesoC
         '
-        Me.TextBoxPeso.Location = New System.Drawing.Point(233, 271)
-        Me.TextBoxPeso.Name = "TextBoxPeso"
-        Me.TextBoxPeso.Size = New System.Drawing.Size(162, 20)
-        Me.TextBoxPeso.TabIndex = 41
+        Me.TextBoxPesoC.Location = New System.Drawing.Point(233, 271)
+        Me.TextBoxPesoC.Name = "TextBoxPesoC"
+        Me.TextBoxPesoC.Size = New System.Drawing.Size(162, 20)
+        Me.TextBoxPesoC.TabIndex = 41
         '
-        'ComboBoxSexo
+        'ComboBoxSexoC
         '
-        Me.ComboBoxSexo.FormattingEnabled = True
-        Me.ComboBoxSexo.Items.AddRange(New Object() {"Masculino ", "Femenino"})
-        Me.ComboBoxSexo.Location = New System.Drawing.Point(233, 307)
-        Me.ComboBoxSexo.Name = "ComboBoxSexo"
-        Me.ComboBoxSexo.Size = New System.Drawing.Size(162, 21)
-        Me.ComboBoxSexo.TabIndex = 43
+        Me.ComboBoxSexoC.FormattingEnabled = True
+        Me.ComboBoxSexoC.Items.AddRange(New Object() {"Masculino ", "Femenino"})
+        Me.ComboBoxSexoC.Location = New System.Drawing.Point(233, 307)
+        Me.ComboBoxSexoC.Name = "ComboBoxSexoC"
+        Me.ComboBoxSexoC.Size = New System.Drawing.Size(162, 21)
+        Me.ComboBoxSexoC.TabIndex = 43
         '
         'DataGridView2
         '
         Me.DataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.DataGridView2.Location = New System.Drawing.Point(554, 136)
         Me.DataGridView2.Name = "DataGridView2"
-        Me.DataGridView2.Size = New System.Drawing.Size(536, 249)
+        Me.DataGridView2.Size = New System.Drawing.Size(514, 249)
         Me.DataGridView2.TabIndex = 46
         '
         'TextBoxIDC
@@ -210,23 +210,23 @@ Partial Class Cliente
         Me.ButtonEliminar.Text = "Eliminar"
         Me.ButtonEliminar.UseVisualStyleBackColor = False
         '
-        'Cliente
+        'Clientes
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.BurlyWood
-        Me.ClientSize = New System.Drawing.Size(1176, 494)
+        Me.ClientSize = New System.Drawing.Size(1148, 494)
         Me.Controls.Add(Me.ButtonEliminar)
         Me.Controls.Add(Me.ButtonModificar)
         Me.Controls.Add(Me.PictureBox2)
         Me.Controls.Add(Me.ButtonAgregar)
         Me.Controls.Add(Me.TextBoxIDC)
         Me.Controls.Add(Me.DataGridView2)
-        Me.Controls.Add(Me.ComboBoxSexo)
-        Me.Controls.Add(Me.TextBoxPeso)
-        Me.Controls.Add(Me.TextBoxEdad)
-        Me.Controls.Add(Me.TextBoxTelefono)
-        Me.Controls.Add(Me.TextBoxNombre)
+        Me.Controls.Add(Me.ComboBoxSexoC)
+        Me.Controls.Add(Me.TextBoxPesoC)
+        Me.Controls.Add(Me.TextBoxEdadC)
+        Me.Controls.Add(Me.TextBoxTelefonoC)
+        Me.Controls.Add(Me.TextBoxNombreC)
         Me.Controls.Add(Me.ButtonRegresar)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.Label5)
@@ -234,7 +234,7 @@ Partial Class Cliente
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Label3)
-        Me.Name = "Cliente"
+        Me.Name = "Clientes"
         Me.Text = "Cliente"
         CType(Me.DataGridView2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
@@ -250,11 +250,11 @@ Partial Class Cliente
     Friend WithEvents Label5 As Label
     Friend WithEvents Label7 As Label
     Friend WithEvents ButtonRegresar As Button
-    Friend WithEvents TextBoxNombre As TextBox
-    Friend WithEvents TextBoxTelefono As TextBox
-    Friend WithEvents TextBoxEdad As TextBox
-    Friend WithEvents TextBoxPeso As TextBox
-    Friend WithEvents ComboBoxSexo As ComboBox
+    Friend WithEvents TextBoxNombreC As TextBox
+    Friend WithEvents TextBoxTelefonoC As TextBox
+    Friend WithEvents TextBoxEdadC As TextBox
+    Friend WithEvents TextBoxPesoC As TextBox
+    Friend WithEvents ComboBoxSexoC As ComboBox
     Friend WithEvents DataGridView2 As DataGridView
     Friend WithEvents TextBoxIDC As TextBox
     Friend WithEvents ButtonAgregar As Button

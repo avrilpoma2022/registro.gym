@@ -50,9 +50,6 @@ C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto
 C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Grupos.resources
 C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Pagos.resources
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\Proyecto practica.exe.config
-E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.exe
-E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.xml
-E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.pdb
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\Proyecto practica.exe
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\Proyecto practica.pdb
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\Proyecto practica.xml
@@ -66,9 +63,8 @@ E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\bin\
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\K4os.Compression.LZ4.dll
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\K4os.Hash.xxHash.dll
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\bin\Debug\MySql.Data.xml
-E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.vbprojResolveAssemblyReference.cache
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.vbproj.Proyecto practica.exe.config
-E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Cliente.resources
+E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Clientes.resources
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Entrenadores.resources
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Form1.resources
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Grupos.resources
@@ -76,4 +72,9 @@ E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Resources.resources
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Pagos.resources
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.registrarse.resources
+E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Usuarios.resources
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.vbproj.GenerateResource.Cache
+E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.exe
+E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.xml
+E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.pdb
+E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Asignacion.resources
