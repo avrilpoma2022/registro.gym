@@ -14,7 +14,7 @@ Public Class Entrenadores
 
 
         conn.Open()
-        Dim sQuery = "select * from entrenadores; "
+        Dim sQuery = "select * from entrenadores WHERE Estado = 'Activo'; "
         com = New MySqlCommand(sQuery, conn)
         da = New MySqlDataAdapter(com)
         da.Fill(dt)
@@ -65,7 +65,7 @@ Public Class Entrenadores
 
 
         conn.Open()
-        Dim sQuery = "UPDATE entrenadores Set id_entrenador=@id, nombre=@nom, edad=@edad, telefono=@tel,  estado=@estado where id_entrenador=@id2"
+        Dim sQuery = "UPDATE entrenadores Set id_entrenador=@id, nombre=@nom, edad=@edad, telefono=@tel,  estado='Inactivo' where id_entrenador=@id2"
         com = New MySqlCommand(sQuery, conn)
         param = New MySqlParameter("@id2", id)
         com.Parameters.Add(param)

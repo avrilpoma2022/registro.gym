@@ -55,7 +55,7 @@ Partial Class menuprincipal
         '
         Me.Button5.BackColor = System.Drawing.Color.Peru
         Me.Button5.Font = New System.Drawing.Font("Modern No. 20", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button5.Location = New System.Drawing.Point(69, 708)
+        Me.Button5.Location = New System.Drawing.Point(628, 251)
         Me.Button5.Name = "Button5"
         Me.Button5.Size = New System.Drawing.Size(135, 44)
         Me.Button5.TabIndex = 33
@@ -110,7 +110,7 @@ Partial Class menuprincipal
         '
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Modern No. 20", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(76, 532)
+        Me.Label7.Location = New System.Drawing.Point(635, 100)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(117, 29)
         Me.Label7.TabIndex = 28
@@ -179,7 +179,7 @@ Partial Class menuprincipal
         '
         Me.Label8.AutoSize = True
         Me.Label8.Font = New System.Drawing.Font("Modern No. 20", 36.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label8.Location = New System.Drawing.Point(166, 24)
+        Me.Label8.Location = New System.Drawing.Point(349, 21)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(201, 50)
         Me.Label8.TabIndex = 34
@@ -189,7 +189,7 @@ Partial Class menuprincipal
         '
         Me.Button6.BackColor = System.Drawing.Color.Peru
         Me.Button6.Font = New System.Drawing.Font("Modern No. 20", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button6.Location = New System.Drawing.Point(349, 708)
+        Me.Button6.Location = New System.Drawing.Point(628, 462)
         Me.Button6.Name = "Button6"
         Me.Button6.Size = New System.Drawing.Size(135, 44)
         Me.Button6.TabIndex = 37
@@ -200,7 +200,7 @@ Partial Class menuprincipal
         '
         Me.Label9.AutoSize = True
         Me.Label9.Font = New System.Drawing.Font("Modern No. 20", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label9.Location = New System.Drawing.Point(353, 532)
+        Me.Label9.Location = New System.Drawing.Point(623, 319)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(147, 29)
         Me.Label9.TabIndex = 36
@@ -209,7 +209,7 @@ Partial Class menuprincipal
         'PictureBox6
         '
         Me.PictureBox6.Image = Global.Proyecto_practica.My.Resources.Resources.asignar
-        Me.PictureBox6.Location = New System.Drawing.Point(321, 573)
+        Me.PictureBox6.Location = New System.Drawing.Point(600, 338)
         Me.PictureBox6.Name = "PictureBox6"
         Me.PictureBox6.Size = New System.Drawing.Size(187, 118)
         Me.PictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
@@ -219,7 +219,7 @@ Partial Class menuprincipal
         'PictureBox5
         '
         Me.PictureBox5.Image = Global.Proyecto_practica.My.Resources.Resources.gerente2
-        Me.PictureBox5.Location = New System.Drawing.Point(41, 573)
+        Me.PictureBox5.Location = New System.Drawing.Point(600, 132)
         Me.PictureBox5.Name = "PictureBox5"
         Me.PictureBox5.Size = New System.Drawing.Size(187, 118)
         Me.PictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
@@ -271,7 +271,7 @@ Partial Class menuprincipal
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.BurlyWood
-        Me.ClientSize = New System.Drawing.Size(560, 781)
+        Me.ClientSize = New System.Drawing.Size(881, 545)
         Me.Controls.Add(Me.Button6)
         Me.Controls.Add(Me.Label9)
         Me.Controls.Add(Me.PictureBox6)

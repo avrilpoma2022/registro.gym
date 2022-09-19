@@ -45,7 +45,6 @@ C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto
 C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Resources.resources
 C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.registrarse.resources
 C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.vbproj.GenerateResource.Cache
-C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Cliente.resources
 C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Entrenadores.resources
 C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Grupos.resources
 C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Pagos.resources
@@ -78,3 +77,6 @@ E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.xml
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto practica.pdb
 E:\ESCRITORIO\Nueva Progra\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Asignacion.resources
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Asignacion.resources
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Clientes.resources
+C:\Users\mecc1\OneDrive\Documents\GitHub\registro.gym\Proyecto practica\Proyecto practica\obj\Debug\Proyecto_practica.Usuarios.resources

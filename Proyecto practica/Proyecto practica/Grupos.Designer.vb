@@ -28,7 +28,6 @@ Partial Class Grupos
         Me.Label1 = New System.Windows.Forms.Label()
         Me.ButtonAgregar = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
-        Me.Button3 = New System.Windows.Forms.Button()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.Button4 = New System.Windows.Forms.Button()
         Me.Label2 = New System.Windows.Forms.Label()
@@ -76,9 +75,9 @@ Partial Class Grupos
         '
         Me.ButtonAgregar.BackColor = System.Drawing.Color.Peru
         Me.ButtonAgregar.Font = New System.Drawing.Font("Modern No. 20", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ButtonAgregar.Location = New System.Drawing.Point(48, 337)
+        Me.ButtonAgregar.Location = New System.Drawing.Point(44, 332)
         Me.ButtonAgregar.Name = "ButtonAgregar"
-        Me.ButtonAgregar.Size = New System.Drawing.Size(121, 40)
+        Me.ButtonAgregar.Size = New System.Drawing.Size(158, 50)
         Me.ButtonAgregar.TabIndex = 57
         Me.ButtonAgregar.Text = "Agregar"
         Me.ButtonAgregar.UseVisualStyleBackColor = False
@@ -87,30 +86,19 @@ Partial Class Grupos
         '
         Me.Button2.BackColor = System.Drawing.Color.Peru
         Me.Button2.Font = New System.Drawing.Font("Modern No. 20", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(185, 337)
+        Me.Button2.Location = New System.Drawing.Point(208, 332)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(121, 40)
+        Me.Button2.Size = New System.Drawing.Size(162, 50)
         Me.Button2.TabIndex = 58
         Me.Button2.Text = "Modificar"
         Me.Button2.UseVisualStyleBackColor = False
         '
-        'Button3
-        '
-        Me.Button3.BackColor = System.Drawing.Color.Peru
-        Me.Button3.Font = New System.Drawing.Font("Modern No. 20", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(322, 337)
-        Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(121, 40)
-        Me.Button3.TabIndex = 59
-        Me.Button3.Text = "Eliminar"
-        Me.Button3.UseVisualStyleBackColor = False
-        '
         'DataGridView1
         '
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(476, 140)
+        Me.DataGridView1.Location = New System.Drawing.Point(452, 124)
         Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(397, 150)
+        Me.DataGridView1.Size = New System.Drawing.Size(370, 150)
         Me.DataGridView1.TabIndex = 61
         '
         'Button4
@@ -163,7 +151,6 @@ Partial Class Grupos
         Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.DataGridView1)
         Me.Controls.Add(Me.PictureBox3)
-        Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.ButtonAgregar)
         Me.Controls.Add(Me.TextBoxNombre)
@@ -185,7 +172,6 @@ Partial Class Grupos
     Friend WithEvents Label1 As Label
     Friend WithEvents ButtonAgregar As Button
     Friend WithEvents Button2 As Button
-    Friend WithEvents Button3 As Button
     Friend WithEvents PictureBox3 As PictureBox
     Friend WithEvents DataGridView1 As DataGridView
     Friend WithEvents Button4 As Button

@@ -42,9 +42,9 @@ Partial Class Usuarios
         'DataGridView1
         '
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(78, 179)
+        Me.DataGridView1.Location = New System.Drawing.Point(95, 186)
         Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(802, 212)
+        Me.DataGridView1.Size = New System.Drawing.Size(739, 168)
         Me.DataGridView1.TabIndex = 62
         '
         'Button3

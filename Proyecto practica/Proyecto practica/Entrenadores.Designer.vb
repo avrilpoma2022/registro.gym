@@ -46,7 +46,7 @@ Partial Class Entrenadores
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.DataGridView1.Location = New System.Drawing.Point(559, 109)
         Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(431, 216)
+        Me.DataGridView1.Size = New System.Drawing.Size(397, 216)
         Me.DataGridView1.TabIndex = 57
         '
         'ButtonAgregar
@@ -110,6 +110,7 @@ Partial Class Entrenadores
         'TextBoxTelefono
         '
         Me.TextBoxTelefono.Location = New System.Drawing.Point(255, 269)
+        Me.TextBoxTelefono.MaxLength = 8
         Me.TextBoxTelefono.Name = "TextBoxTelefono"
         Me.TextBoxTelefono.Size = New System.Drawing.Size(130, 20)
         Me.TextBoxTelefono.TabIndex = 65
@@ -165,7 +166,7 @@ Partial Class Entrenadores
         '
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(720, 72)
+        Me.Label5.Location = New System.Drawing.Point(685, 72)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(148, 21)
         Me.Label5.TabIndex = 71

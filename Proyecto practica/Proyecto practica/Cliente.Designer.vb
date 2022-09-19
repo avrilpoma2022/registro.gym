@@ -125,6 +125,7 @@ Partial Class Clientes
         'TextBoxTelefonoC
         '
         Me.TextBoxTelefonoC.Location = New System.Drawing.Point(233, 203)
+        Me.TextBoxTelefonoC.MaxLength = 8
         Me.TextBoxTelefonoC.Name = "TextBoxTelefonoC"
         Me.TextBoxTelefonoC.Size = New System.Drawing.Size(162, 20)
         Me.TextBoxTelefonoC.TabIndex = 39
@@ -157,7 +158,7 @@ Partial Class Clientes
         Me.DataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.DataGridView2.Location = New System.Drawing.Point(554, 136)
         Me.DataGridView2.Name = "DataGridView2"
-        Me.DataGridView2.Size = New System.Drawing.Size(514, 249)
+        Me.DataGridView2.Size = New System.Drawing.Size(480, 249)
         Me.DataGridView2.TabIndex = 46
         '
         'TextBoxIDC

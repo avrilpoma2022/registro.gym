@@ -49,6 +49,7 @@ Partial Class registrarse
         '
         Me.TextBox8.Location = New System.Drawing.Point(222, 317)
         Me.TextBox8.Name = "TextBox8"
+        Me.TextBox8.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.TextBox8.Size = New System.Drawing.Size(245, 20)
         Me.TextBox8.TabIndex = 35
         '
@@ -157,6 +158,7 @@ Partial Class registrarse
         '
         Me.TextBox7.Location = New System.Drawing.Point(222, 275)
         Me.TextBox7.Name = "TextBox7"
+        Me.TextBox7.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.TextBox7.Size = New System.Drawing.Size(245, 20)
         Me.TextBox7.TabIndex = 24
         '
@@ -184,6 +186,7 @@ Partial Class registrarse
         'TextBox3
         '
         Me.TextBox3.Location = New System.Drawing.Point(222, 108)
+        Me.TextBox3.MaxLength = 8
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(245, 20)
         Me.TextBox3.TabIndex = 20
